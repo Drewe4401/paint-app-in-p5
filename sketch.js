@@ -1,7 +1,7 @@
 var brush;
 
 function setup() {
-  createCanvas(2600, 1900);
+  createCanvas(windowWidth, windowHeight);
   brush = color(50);
 }
 
