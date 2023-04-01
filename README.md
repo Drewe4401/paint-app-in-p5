@@ -13,3 +13,7 @@ This drawing canvas allows users to draw lines in different colors. The canvas p
 ### Structure
 
 * Sketch.js: This file contains the code for setting up the canvas, handling user input, and drawing the lines and color palette.
+
+### Github Pages Link
+
+https://drewe4401.github.io/paint-app-in-p5/
